@@ -1,0 +1,4 @@
+.vscode
+pybo.db
+*.pyc
+__pycache__
